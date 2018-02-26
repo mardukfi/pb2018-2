@@ -8,6 +8,7 @@
 ### Actividad
 - Los problemas de la práctica 2 se hacen Algoritmos
 - Se instala gfortran [Descarga de compliador para fortran](https://gcc.gnu.org/wiki/GFortranBinaries)
+- Se instala un editor de texto para crear los archivos fortran. [Descarga de editor atom](https://atom.io)
 
 ### Tarea
 - Entregar el viernes la práctica 3. Los ejercios hechos algoritmos de la práctica 2
