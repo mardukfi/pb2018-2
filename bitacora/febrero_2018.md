@@ -1,7 +1,30 @@
 # Bitácora de clases febrero
+
+## 26 de febrero
+### Temas
+- Práctica 3. Algoritmos
+- Compilador, editor de codigo
+
+### Actividad
+- Los problemas de la práctica 2 se hacen Algoritmos
+- Se instala gfortran [Descarga de compliador para fortran](https://gcc.gnu.org/wiki/GFortranBinaries)
+
+### Tarea
+- Entregar el viernes la práctica 3. Los ejercios hechos algoritmos de la práctica 2
+
+
+### Actividad
+- Ejercicios de Algoritmos
+## 23 de febrero
+### Temas
+- Algoritmos
+
+### Actividad
+- Ejercicios de Algoritmos
+
 ## 19 de febrero
 ### Temas
-- Conceptos de problema, análisis, ingeniería de software, ciclo de vida de software y caja negra
+- Problemas computables, intratables. Conceptos de problema, análisis, ingeniería de software, ciclo de vida de software y caja negra
 
 ### Actividad
 - Práctica 2
