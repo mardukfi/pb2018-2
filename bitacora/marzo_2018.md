@@ -1,6 +1,6 @@
 # Bitácora de clases febrero
 
-## 6 de marzo
+## 5 de marzo
 ### Temas
 - Práctica 4. Pseudocódigo
  - Estructuras de control de flujo
