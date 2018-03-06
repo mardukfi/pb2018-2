@@ -13,9 +13,6 @@
 ### Tarea
 - Entregar el viernes la práctica 3. Los ejercios hechos algoritmos de la práctica 2
 
-
-### Actividad
-- Ejercicios de Algoritmos
 ## 23 de febrero
 ### Temas
 - Algoritmos
