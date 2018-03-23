@@ -1,4 +1,32 @@
-# Bitácora de clases febrero
+# Bitácora de clases marzo
+
+## 23 de marzo
+### Temas
+- Práctica 7. Introducción a Fortrán
+
+### Actividad
+- Se revisaron los conceptos básicos de Fortrán
+- Se hizo el primer programa en Fortrán
+
+### Tarea
+- Hacer una investigación sobre C, Fortrán, Python y Swift. Principales características, versiones, fechas de liberación y usos.
+
+## 16 de marzo
+### Primer examen parcial
+- Aplicación del primer examen parcial
+
+## 12 de marzo
+### Temas
+- Práctica 6. GNU/LINUX
+
+### Actividad
+- Se vieron los comandos y funcionamiento de la terminal
+
+### Tarea
+- Entregar reporte de la práctica
+ - Comandos y descripción
+ - ¿Que es software Libre? Investigar sobre Richard Stallman
+ - Para el examen parcial, traer un acordeón con los conceptos vistos.
 
 ## 9 de marzo
 ### Temas
