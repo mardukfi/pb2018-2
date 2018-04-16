@@ -1,5 +1,16 @@
 # Bitácora de clases abril
 
+## 16 de abril
+### Temas
+- Práctica 11. Arreglos multidimensionales
+
+### Actividad
+- Se revisaron los conceptos de arreglos multidimensionales en Fortrán
+
+### Tarea
+- Hacer los ejercicios de la presentación y entregar por correo.
+
+
 ## 13 de abril
 ### Temas
 - Práctica 10. Arreglos y apuntadores
