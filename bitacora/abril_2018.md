@@ -1,5 +1,15 @@
 # Bitácora de clases abril
 
+## 20 de abril
+### Temas
+- Práctica 12. Funciones
+
+### Actividad
+- Se revisaron los conceptos de funciones. Se repasó temas examen.
+
+### Tarea
+- Preparar previo para examen, acordeón. Examen segundo parcial 23 de abril.
+
 ## 16 de abril
 ### Temas
 - Práctica 11. Arreglos multidimensionales
