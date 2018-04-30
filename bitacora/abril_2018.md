@@ -3,6 +3,10 @@
 ## 30 de abril
 ### Temas
 - Práctica 13. Archivos
+### Tarea
+- Estudiar para examen. Examen tercer parcial  11 de mayo
+- Entregar práctica 12: 3 programas. Por correo, fecha: 4 de mayo 
+
 
 ## 27 de abril
 ### Temas
