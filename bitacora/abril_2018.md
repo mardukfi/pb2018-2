@@ -1,5 +1,17 @@
 # Bitácora de clases abril
 
+## 30 de abril
+### Temas
+- Práctica 13. Archivos
+
+## 27 de abril
+### Temas
+- Continuación práctica 12. Subrutinas
+
+## 23 de abril
+### Temas
+- Examen segundo parcial
+
 ## 20 de abril
 ### Temas
 - Práctica 12. Funciones
