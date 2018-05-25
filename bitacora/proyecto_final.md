@@ -1,4 +1,10 @@
 # Proyecto final
+
+## Entrega viernes 1 de junio 9:00 am
+- El trabajo escrito se entregará impreso engargolado en el laboratorio y se mandará digital también por correo.
+- La app se mandará la carpeta de código por correo.
+- Los alumnos que presenten final se les avisará el vienres en la noche por correo. Primera vuelta de final Lunes 4 de junio en el laboratorio.
+- Entrega de calificaciones finales lunes 4 de junio en el laboratorio.
 ##  Requerimientos
 ## Trabajo Escrito (máximo 20 cuartillas)
 - Portada con nombre y firma
